@@ -149,6 +149,23 @@
   info_url: https://onlineservices.parracity.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2021-01-13'
+- council_reference: DA/292/2017/C
+  address: 8 Melville Street, PARRAMATTA NSW 2150
+  description: "Section 4.56 modification of the Land and Environment Court of NSW
+    approved DA/292/2017 for: \na)\tDemolition of the existing dwelling house at 14
+    Gould Place, Parramatta; Construction of a proposed basement (including transfer
+    slab and services), access & demolition and construction works to Macarthur House
+    and change of use from commercial use to residential use and approved tree removal;\nb)\tConsolidate
+    four (4) lots (Lots 1-4 in Deposited Plan 228839) and subdivision into two (2)
+    Stratum lots;\nc)\tConstruction of a dual occupancy on proposed Lot 2 of the Stratum
+    subdivision;\nd)\tSubdivision of the dual occupancy into two (2) dwelling house
+    lots and consequential transfer of access rights to the basement for the dwelling
+    houses.\nThe modification includes various internal and external minor changes.
+    \ 'Macarthur House' is a heritage item of State significance. The application
+    is defined as Nominated Integrated Development under the Heritage Act 1977."
+  info_url: https://onlineservices.parracity.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-12-24'
 - council_reference: DA/3/2021
   address: 83 Evans Road, DUNDAS VALLEY NSW 2117
   description: |-
@@ -326,6 +343,22 @@
   info_url: https://onlineservices.parracity.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2021-01-11'
+- council_reference: DA/489/2016/A
+  address: 11 Neil Street, EPPING NSW 2121
+  description: Section 4.55(1A) modification of DA/489/2016 for demolition, tree removal,
+    and construction of a two storey attached dual occupancy with Torrens title subdivision.  The
+    modification includes internal room rearrangement and external wall adjustments
+    to suit new window locations and internal layout.
+  info_url: https://onlineservices.parracity.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-12-26'
+- council_reference: DA/49/2021
+  address: 15 High Street, EPPING NSW 2121
+  description: Demolition, tree removal and construction of a 75 place centre based
+    child care centre with basement parking.
+  info_url: https://onlineservices.parracity.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-12-24'
 - council_reference: DA/5/2021
   address: 128 Marsden Street, PARRAMATTA NSW 2150
   description: Alterations and additions to existing commercial building including
@@ -335,6 +368,14 @@
   info_url: https://onlineservices.parracity.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2021-01-07'
+- council_reference: DA/552/2019/A
+  address: 218 Marsden Road, CARLINGFORD NSW 2118
+  description: |-
+    Section 4.55(1A) modification of DA/552/2019 for the demolition of existing structures, tree removal and construction of a two storey attached dual occupancy with associated Torrens title subdivision.
+    The modification seeks the removal of 2 trees at the rear of the site to facilitate stormwater works as outlined in Schedule 1 (2) of the deferred commencement consent.
+  info_url: https://onlineservices.parracity.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-12-26'
 - council_reference: DA/6/2021
   address: 33 Plymouth Avenue, NORTH ROCKS NSW 2151
   description: Proposed dwelling house and associated works.
@@ -365,6 +406,27 @@
   info_url: https://onlineservices.parracity.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2021-01-07'
+- council_reference: DA/795/2020
+  address: 113 Railway Street, WENTWORTHVILLE NSW 2145
+  description: Construction of a detached dwelling to create a dual occupancy, minor
+    modifications to the existing swimming pool, and Torrens Title subdivision to
+    create 2 lots.
+  info_url: https://onlineservices.parracity.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-12-23'
+- council_reference: DA/797/2020
+  address: 3 Cooper Avenue, NEWINGTON NSW 2127
+  description: Alterations and additions to the existing dwelling.
+  info_url: https://onlineservices.parracity.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-12-23'
+- council_reference: DA/798/2020
+  address: 146 Pennant Street, NORTH PARRAMATTA NSW 2151
+  description: Minor internal alterations and use of the premises (Unit 2) for the
+    purpose of a tattoo parlour (business premises).
+  info_url: https://onlineservices.parracity.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2020-12-24'
 - council_reference: DA/8/2021
   address: 2 Central Avenue, EASTWOOD NSW 2122
   description: Demolition, tree removal, construction of a secondary dwelling, outbuilding,

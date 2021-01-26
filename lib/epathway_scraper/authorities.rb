@@ -144,7 +144,7 @@ module EpathwayScraper
     parramatta: {
       url: "https://onlineservices.parracity.nsw.gov.au/ePathway/Prod",
       state: "NSW",
-      list: :last_30_days
+      list: :all_since_2020
     },
     port_phillip: {
       url: "https://eservices.portphillip.vic.gov.au/ePathway/Production",

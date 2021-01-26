@@ -36,6 +36,10 @@ module EpathwayScraper
       page = Page::ListSelect.select_all(page) if Page::ListSelect.on_page?(page)
       page = Page::Search.click_date_search_tab(page, agent)
       Page::DateSearch.pick_all_year(page, DateTime.now.year)
+    elsif list == :all_since_2020
+      page = Page::ListSelect.select_all(page) if Page::ListSelect.on_page?(page)
+      page = Page::Search.click_date_search_tab(page, agent)
+      Page::DateSearch.pick_date_range(page, DateTime.new(2020, 1, 1), DateTime.now)
     else
       raise "Unexpected list: #{list}"
     end

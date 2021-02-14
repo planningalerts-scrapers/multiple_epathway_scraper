@@ -36,6 +36,7 @@ module EpathwayScraper
         "find a development application",
         "list of development applications",
         "development application - planning act",
+        "track lodged development applications (da)",
         # Planning Applications
         "planning applications",
         "planning application enquiry",

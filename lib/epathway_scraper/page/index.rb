@@ -66,6 +66,8 @@ module EpathwayScraper
         # TODO: Year of what exactly?
         when "year"
           :year
+		when "responsible officer"
+		  # Catch case to avoid crashing on ipswich
         else
           raise "Unexpected key: #{key.downcase} with value: #{value}"
         end

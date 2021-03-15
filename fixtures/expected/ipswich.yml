@@ -1,0 +1,538 @@
+---
+- council_reference: 1135/2018/ADP/A
+  address: 1 Main Street, SPRINGFIELD CENTRAL QLD 4300
+  description: Amendment to Area Development Plan for Stage 2 Orion Springfield Central
+  info_url: https://epathway.ipswich.qld.gov.au/ePathway/Production//Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-03-01'
+- council_reference: 1696/2016/MAEXT/A
+  address: 10-12 Leonard Street, YAMANTO QLD 4305
+  description: Extension Application - Multiple Residential – 10 Townhouses and Reconfiguring
+    a Lot – One (1) Lot into three (3) lots
+  info_url: https://epathway.ipswich.qld.gov.au/ePathway/Production//Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-02-16'
+- council_reference: 2098/2015/MAMC/B
+  address: Lot 89 Unnamed Road, REDBANK PLAINS QLD 4301
+  description: "Minor Change - \nRAL - Two (2) lots into 235 lots plus park, drainage
+    reserve, balance lot and access easements \nMCU - Single residential not complying
+    with the residential code (121 lots)"
+  info_url: https://epathway.ipswich.qld.gov.au/ePathway/Production//Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-03-10'
+- council_reference: 2451/2018/MAMC/A
+  address: 7001 Ashton Avenue, REDBANK QLD 4301
+  description: Minor Change - Road Work, Stormwater and Earthworks
+  info_url: https://epathway.ipswich.qld.gov.au/ePathway/Production//Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-03-15'
+- council_reference: 3189/2016/MAEXT/A
+  address: 17 Heather Street, SILKSTONE QLD 4304
+  description: Extension to Currency Period Application - Multiple Residential (Aged
+    Care Facility)
+  info_url: https://epathway.ipswich.qld.gov.au/ePathway/Production//Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-03-10'
+- council_reference: 3769/2019/MAMC/A
+  address: 186 Collingwood Drive, COLLINGWOOD PARK QLD 4301
+  description: "Minor Change Application - \nReconfiguring a Lot - Three (3) Lots
+    into Three Hundred and Twenty Three (323) Residential Lots plus Three (3) drainage
+    reserve Lots and One (1) park Lot\nMaterial Change of Use - Single Residential
+    (Building Location Envelope Plan)\nOperational Works - Vegetation Clearing"
+  info_url: https://epathway.ipswich.qld.gov.au/ePathway/Production//Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-02-25'
+- council_reference: 3806/2021/EXC
+  address: 177 Happy Jack Drive, BELLBIRD PARK QLD 4300
+  description: Exemption Certificate - Single Dwelling
+  info_url: https://epathway.ipswich.qld.gov.au/ePathway/Production//Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-02-16'
+- council_reference: 3842/2021/OD
+  address: 75 O'Sullivan Street, WOODEND QLD 4305
+  description: Carrying out building work not associated with a material change of
+    use - Extension to a Character Dwelling
+  info_url: https://epathway.ipswich.qld.gov.au/ePathway/Production//Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-02-16'
+- council_reference: 40/2015/MAPDA/H
+  address: 7002 Bayliss Road, SOUTH RIPLEY QLD 4306
+  description: Amendment Application - Change to PDA Development Approval - Reconfiguring
+    a Lot (with Plan of Development) for 1601 lots (consisting of 1585 residential
+    lots, 11 super lots [subject to separate approval], 4 balance lots, 1 utility
+    lot, open space, land for drainage and roads) over multiple stages
+  info_url: https://epathway.ipswich.qld.gov.au/ePathway/Production//Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-03-03'
+- council_reference: 4011/2021/OW
+  address: 150 Hume Drive, BUNDAMBA QLD 4304
+  description: Stormwater, Drainage Works & Earthworks - Citiswich Stage 4 Phase 1
+  info_url: https://epathway.ipswich.qld.gov.au/ePathway/Production//Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-02-18'
+- council_reference: 4065/2016/MAEXT/A
+  address: 10 Alawoona Street, REDBANK PLAINS QLD 4301
+  description: Extension Application - One (1) lot into Two (2) Lots
+  info_url: https://epathway.ipswich.qld.gov.au/ePathway/Production//Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-02-18'
+- council_reference: 4107/2014/MAEXT/B
+  address: 107-113 Mica Street, CAROLE PARK QLD 4300
+  description: Extension Application - Service/Trades Use (Outdoor Storage)
+  info_url: https://epathway.ipswich.qld.gov.au/ePathway/Production//Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-03-11'
+- council_reference: 4142/2021/OW
+  address: 31 Church Street, GOODNA QLD 4300
+  description: Landscaping - New Footpath & Extension to Existing Car Park
+  info_url: https://epathway.ipswich.qld.gov.au/ePathway/Production//Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-02-19'
+- council_reference: 4164/2021/OW
+  address: 12 Knot Place, AUGUSTINE HEIGHTS QLD 4300
+  description: Landscaping
+  info_url: https://epathway.ipswich.qld.gov.au/ePathway/Production//Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-02-19'
+- council_reference: 4169/2021/OW
+  address: 26 Welsby Street, NORTH BOOVAL QLD 4304
+  description: Stormwater & Earthworks
+  info_url: https://epathway.ipswich.qld.gov.au/ePathway/Production//Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-02-19'
+- council_reference: 4181/2021/MCU
+  address: 48 Thorn Street, IPSWICH QLD 4305
+  description: Material Change of Use - Community Use (Hospital)
+  info_url: https://epathway.ipswich.qld.gov.au/ePathway/Production//Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-02-22'
+- council_reference: 4190/2021/OD
+  address: 18 Pine Street, NORTH IPSWICH QLD 4305
+  description: Carrying out building work not associated with a material change of
+    use - Extension to a Single Residential in a Character Zone (Roofed Deck)
+  info_url: https://epathway.ipswich.qld.gov.au/ePathway/Production//Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-02-22'
+- council_reference: 4204/2021/CA
+  address: 7001 Bognuda Street, BUNDAMBA QLD 4304
+  description: Material Change of Use – Service Trades/Use (Warehouse) and General
+    Industry (Assembly, Servicing, Storage and Repair of Deployable Medical Tent and
+    Shelter Systems) and Other Development – Advertising Devices (two (2) wall signs
+    and one (1) pylon sign)
+  info_url: https://epathway.ipswich.qld.gov.au/ePathway/Production//Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-02-22'
+- council_reference: 421/2017/MAEXT/C
+  address: 25 Philip Street, REDBANK PLAINS QLD 4301
+  description: Extension Application - One (1) lot into Two (2) lots
+  info_url: https://epathway.ipswich.qld.gov.au/ePathway/Production//Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-02-15'
+- council_reference: 4346/2016/MAEXT/A
+  address: 129 Whitehill Road, EASTERN HEIGHTS QLD 4305
+  description: Extension to Currency Period Application -  RAL - Two (2) Lots into
+    Three (3) Lots and MCU - Dual Occupancy
+  info_url: https://epathway.ipswich.qld.gov.au/ePathway/Production//Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-02-23'
+- council_reference: 4369/2021/OW
+  address: 7003 Mount Juillerat Drive, REDBANK PLAINS QLD 4301
+  description: Road work, Stormwater and Earthworks
+  info_url: https://epathway.ipswich.qld.gov.au/ePathway/Production//Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-02-23'
+- council_reference: 4380/2021/MCU
+  address: 353-355 Redbank Plains Road, REDBANK PLAINS QLD 4301
+  description: Material Change of Use - Service/Trades Use (Mechanical Car Wash)
+  info_url: https://epathway.ipswich.qld.gov.au/ePathway/Production//Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-02-23'
+- council_reference: 4386/2021/MCU
+  address: 18 River Road, BUNDAMBA QLD 4304
+  description: Material Change of Use - Single Residential in a Character Zone
+  info_url: https://epathway.ipswich.qld.gov.au/ePathway/Production//Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-02-23'
+- council_reference: 4406/2021/MCU
+  address: Lot 2 Unnamed Road, YAMANTO QLD 4305
+  description: Material Change of Use - Business Use (Bulky Goods Sales, Shop, Restaurant,
+    Medical Centre and Office)
+  info_url: https://epathway.ipswich.qld.gov.au/ePathway/Production//Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-02-24'
+- council_reference: 4433/2014/MAEXT/B
+  address: 109-115 Willow Road, REDBANK PLAINS QLD 4301
+  description: Extension Application - One (1) Lot into Twenty-nine (29) Lots plus
+    Drainage Reserve
+  info_url: https://epathway.ipswich.qld.gov.au/ePathway/Production//Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-02-15'
+- council_reference: 4511/2019/MAMC/A
+  address: 57 Brisbane Road, REDBANK QLD 4301
+  description: "Minor Change Application - \nMaterial Change of Use - Community Use
+    (Child Care Centre)\nReconfiguring a Lot - Access Easement"
+  info_url: https://epathway.ipswich.qld.gov.au/ePathway/Production//Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-02-26'
+- council_reference: 4534/2021/OW
+  address: 304 Brisbane Terrace, GOODNA QLD 4300
+  description: Stormwater
+  info_url: https://epathway.ipswich.qld.gov.au/ePathway/Production//Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-02-25'
+- council_reference: 4582/2021/OD
+  address: 20 Pine Mountain Road, NORTH IPSWICH QLD 4305
+  description: Building Work not Associated with an MCU – Extension to single residential
+    in a character zone
+  info_url: https://epathway.ipswich.qld.gov.au/ePathway/Production//Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-02-25'
+- council_reference: 4583/2021/MCU
+  address: 171 Karrabin Rosewood Road, KARRABIN QLD 4306
+  description: Material Change of Use - Single Residential
+  info_url: https://epathway.ipswich.qld.gov.au/ePathway/Production//Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-02-25'
+- council_reference: 4591/2021/OD
+  address: 17 Lennon Lane, NORTH IPSWICH QLD 4305
+  description: Building Work not Associated with an MCU - Extension to Character Dwelling
+  info_url: https://epathway.ipswich.qld.gov.au/ePathway/Production//Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-02-26'
+- council_reference: 4623/2021/OD
+  address: 18 Ashburn Road, BUNDAMBA QLD 4304
+  description: Advertising Device - One (1) Temporary Mesh Signage
+  info_url: https://epathway.ipswich.qld.gov.au/ePathway/Production//Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-02-26'
+- council_reference: 4625/2021/MCU
+  address: 147-171 Harrison Road, CALVERT QLD 4340
+  description: Material Change of Use - Single Residential in a Rural Zone
+  info_url: https://epathway.ipswich.qld.gov.au/ePathway/Production//Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-02-26'
+- council_reference: 4633/2021/OW
+  address: 7001 Karrabin Rosewood Road, ROSEWOOD QLD 4340
+  description: Rate 3 Streetlighting - Rosewood Green Stage 2A
+  info_url: https://epathway.ipswich.qld.gov.au/ePathway/Production//Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-02-26'
+- council_reference: 4636/2021/OD
+  address: 39 Rowland Terrace, COALFALLS QLD 4305
+  description: Building Work not Associated with an MCU - Extension to Character Dwelling
+    and New Carport
+  info_url: https://epathway.ipswich.qld.gov.au/ePathway/Production//Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-02-26'
+- council_reference: 4642/2021/OW
+  address: 7001 Karrabin Rosewood Road, ROSEWOOD QLD 4340
+  description: Rate 3 Streetlighting - Rosewood Green Stage 2B
+  info_url: https://epathway.ipswich.qld.gov.au/ePathway/Production//Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-02-26'
+- council_reference: 4700/2021/OW
+  address: 7001 Swallowtail Street, ROSEWOOD QLD 4340
+  description: Landscaping - Rosehaven Estate Stage 8
+  info_url: https://epathway.ipswich.qld.gov.au/ePathway/Production//Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-03-01'
+- council_reference: 4703/2021/OW
+  address: 115A Johnston Street, BELLBIRD PARK QLD 4300
+  description: Road work, Stormwater, Earthworks, Erosion and Sediment Control and
+    Driveway Services
+  info_url: https://epathway.ipswich.qld.gov.au/ePathway/Production//Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-03-01'
+- council_reference: 4791/2021/MCU
+  address: 86 Riverside Drive, MUIRLEA QLD 4306
+  description: Material Change of Use - Single Residential affected by a Development
+    Constraints Overlay (Bushfire Risk Area)
+  info_url: https://epathway.ipswich.qld.gov.au/ePathway/Production//Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-03-02'
+- council_reference: 4822/2021/OW
+  address: 36 Masterpanel Lane, BUNDAMBA QLD 4304
+  description: Stormwater, Earthworks, Erosion and Sediment Control
+  info_url: https://epathway.ipswich.qld.gov.au/ePathway/Production//Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-03-02'
+- council_reference: 4830/2021/MCU
+  address: 113 Dan Street, KARALEE QLD 4306
+  description: Material Change of Use -  Single Residential affected by a Development
+    Constraints Overlay (High Voltage Electrical Transmission Lines)
+  info_url: https://epathway.ipswich.qld.gov.au/ePathway/Production//Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-03-02'
+- council_reference: 4870/2021/OD
+  address: 5 Turner Street, IPSWICH QLD 4305
+  description: Carrying out building work not associated with a material change of
+    use - Carport in a Character Zone
+  info_url: https://epathway.ipswich.qld.gov.au/ePathway/Production//Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-03-03'
+- council_reference: 4886/2021/OD
+  address: 6 Montauban Street, NEWTOWN QLD 4305
+  description: Carrying out building work not associated with a material change of
+    use - Extension to a Single Residential in a Character Zone (Extensions to a Dwelling
+    House)
+  info_url: https://epathway.ipswich.qld.gov.au/ePathway/Production//Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-03-03'
+- council_reference: 4889/2021/MCU
+  address: 40 Roderick Street, IPSWICH QLD 4305
+  description: Business Use (Professional Office – Barristers Chambers)
+  info_url: https://epathway.ipswich.qld.gov.au/ePathway/Production//Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-03-03'
+- council_reference: 4891/2021/MCU
+  address: 84 Chubb Street, ONE MILE QLD 4305
+  description: Material Change of Use - Temporary Accommodation (Caravan Park and
+    Camping Ground - 46 Sites)
+  info_url: https://epathway.ipswich.qld.gov.au/ePathway/Production//Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-03-03'
+- council_reference: 4901/2021/OW
+  address: 7001 Bognuda Street, BUNDAMBA QLD 4304
+  description: Landscaping
+  info_url: https://epathway.ipswich.qld.gov.au/ePathway/Production//Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-03-03'
+- council_reference: 4913/2021/OW
+  address: 136 Chalk Street, WULKURAKA QLD 4305
+  description: Landscaping
+  info_url: https://epathway.ipswich.qld.gov.au/ePathway/Production//Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-03-04'
+- council_reference: 4917/2021/MCU
+  address: 68 Bellevue Road, GOODNA QLD 4300
+  description: Material Change of Use - Major Utility (Telecommunications Tower)
+  info_url: https://epathway.ipswich.qld.gov.au/ePathway/Production//Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-03-04'
+- council_reference: 4949/2021/OD
+  address: 1 Murphy Street, IPSWICH QLD 4305
+  description: Advertising Device (Illuminated Pylon Sign)
+  info_url: https://epathway.ipswich.qld.gov.au/ePathway/Production//Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-03-04'
+- council_reference: 4974/2021/OD
+  address: 12 Blackstone Road, NEWTOWN QLD 4305
+  description: Carrying out building work not associated with a material change of
+    use - Extension to a Single Residential in a Character Zone (Demolitions, Lower
+    Level and Rear Extensions)
+  info_url: https://epathway.ipswich.qld.gov.au/ePathway/Production//Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-03-04'
+- council_reference: 5040/2019/MAMC/A
+  address: 41 Queen Street, GOODNA QLD 4300
+  description: Minor Change Application - Road Work, Stormwater Drainage Work and
+    Earthworks
+  info_url: https://epathway.ipswich.qld.gov.au/ePathway/Production//Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-02-19'
+- council_reference: 5087/2021/OD
+  address: 22 Roderick Street, IPSWICH QLD 4305
+  description: Carrying out building work not associated with a material change of
+    use - Extension to a Single Residential in a Character Zone (Partial Demolition
+    Works and Extensions to a Character Dwelling House)
+  info_url: https://epathway.ipswich.qld.gov.au/ePathway/Production//Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-03-05'
+- council_reference: 5124/2021/OD
+  address: 41 McGill Street, BASIN POCKET QLD 4305
+  description: Building Work not Associated with an MCU - Auxiliary Unit within a
+    Development Constraints Overlay (OV5 - Flooding)
+  info_url: https://epathway.ipswich.qld.gov.au/ePathway/Production//Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-03-08'
+- council_reference: 5125/2021/MCU
+  address: 1 Hancock Street, IPSWICH QLD 4305
+  description: Material Change of Use - Multiple Residential (16 Units)
+  info_url: https://epathway.ipswich.qld.gov.au/ePathway/Production//Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-03-08'
+- council_reference: 5129/2021/OW
+  address: 205 Kruger Parade, REDBANK PLAINS QLD 4301
+  description: Stormwater and Earthworks
+  info_url: https://epathway.ipswich.qld.gov.au/ePathway/Production//Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-03-08'
+- council_reference: 5135/2021/OW
+  address: 7003 Mount Juillerat Drive, REDBANK PLAINS QLD 4301
+  description: Road Work, Stormwater & Earthworks - Eden's Crossing Stage 20
+  info_url: https://epathway.ipswich.qld.gov.au/ePathway/Production//Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-03-08'
+- council_reference: 5141/2021/RAL
+  address: 156 Brisbane Terrace, GOODNA QLD 4300
+  description: Reconfiguring a Lot - One (1) Lot into Four (4) Lots
+  info_url: https://epathway.ipswich.qld.gov.au/ePathway/Production//Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-03-08'
+- council_reference: 5199/2021/OW
+  address: 7003 Mount Juillerat Drive, REDBANK PLAINS QLD 4301
+  description: Rate 3 Streetlighting - Eden's Crossing Stage 24
+  info_url: https://epathway.ipswich.qld.gov.au/ePathway/Production//Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-03-08'
+- council_reference: 5201/2021/RAL
+  address: 23 Ipswich City Mall, IPSWICH QLD 4305
+  description: Reconfiguring a Lot - Two (2) Lots into Seven (7) Lots
+  info_url: https://epathway.ipswich.qld.gov.au/ePathway/Production//Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-03-08'
+- council_reference: 5338/2021/CA
+  address: 7 Gliderway Street, BUNDAMBA QLD 4304
+  description: |-
+    Reconfiguring a Lot - Five (5) Lots into Two (2) Lots
+    Material Change of Use – Service/Trades Use (Warehouse)
+  info_url: https://epathway.ipswich.qld.gov.au/ePathway/Production//Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-03-09'
+- council_reference: 5342/2021/OW
+  address: Lot 89 Unnamed Road, REDBANK PLAINS QLD 4301
+  description: Landscaping - Edens Crossing Stage 24
+  info_url: https://epathway.ipswich.qld.gov.au/ePathway/Production//Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-03-09'
+- council_reference: 5392/2021/PDA
+  address: 7-103 Binnies Road, RIPLEY QLD 4306
+  description: Operational Works 7-103 Binnies Road, Ripley - Preliminary Bulk Earthworks
+  info_url: https://epathway.ipswich.qld.gov.au/ePathway/Production//Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-03-10'
+- council_reference: 5447/2021/OD
+  address: 14 Sunbird Drive, REDBANK PLAINS QLD 4301
+  description: Advertising Device
+  info_url: https://epathway.ipswich.qld.gov.au/ePathway/Production//Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-03-11'
+- council_reference: 5582/2021/RAL
+  address: 45-85 Schubels Road, MARBURG QLD 4346
+  description: Reconfiguring a Lot - One (1) Lot into Sixteen (16) Lots
+  info_url: https://epathway.ipswich.qld.gov.au/ePathway/Production//Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-03-12'
+- council_reference: 5589/2021/OD
+  address: 16 Delacy Street, NORTH IPSWICH QLD 4305
+  description: Carrying out building work not associated with a material change of
+    use -  Extension to a Single Residential in a character Zone (Veranda/Deck)
+  info_url: https://epathway.ipswich.qld.gov.au/ePathway/Production//Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-03-12'
+- council_reference: 5591/2021/MCU
+  address: 267 Borallon Station Road, PINE MOUNTAIN QLD 4306
+  description: Material Change of Use - Home Based Activity - Vehicle Storage and
+    Maintenance
+  info_url: https://epathway.ipswich.qld.gov.au/ePathway/Production//Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-03-12'
+- council_reference: 5595/2021/MCU
+  address: 6 Barclay Street, BUNDAMBA QLD 4304
+  description: Material Change of Use - Single Residential affected by a Development
+    Constraints Overlay (Flooding)
+  info_url: https://epathway.ipswich.qld.gov.au/ePathway/Production//Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-03-12'
+- council_reference: 5602/2021/MCU
+  address: 25 Kirton Street, REDBANK PLAINS QLD 4301
+  description: Material Change of Use - Single Residential affected by a Development
+    Constraints Overlay (Flooding)
+  info_url: https://epathway.ipswich.qld.gov.au/ePathway/Production//Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-03-12'
+- council_reference: 5609/2021/OW
+  address: 7001 Rohl Road, WALLOON QLD 4306
+  description: Road Work, Stormwater, Drainage Work & Earthworks - Waterlea Stage
+    5C
+  info_url: https://epathway.ipswich.qld.gov.au/ePathway/Production//Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-03-12'
+- council_reference: 5636/2021/MCU
+  address: 54-56 Arthur Summervilles Road, KARALEE QLD 4306
+  description: Material Change of Use - Community Use (Child Care Centre)
+  info_url: https://epathway.ipswich.qld.gov.au/ePathway/Production//Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-03-15'
+- council_reference: 5655/2021/OW
+  address: 7001 Collingwood Drive, COLLINGWOOD PARK QLD 4301
+  description: Rate 3 Streetlighting - Woodlinks Village Stage 23
+  info_url: https://epathway.ipswich.qld.gov.au/ePathway/Production//Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-03-15'
+- council_reference: 6184/2014/ADP/A
+  address: 14/21 Technology Drive, AUGUSTINE HEIGHTS QLD 4300
+  description: Area Development Plan to amend an Approved Area Development Plan to
+    permit the development of a Veterinary Hospital
+  info_url: https://epathway.ipswich.qld.gov.au/ePathway/Production//Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-02-18'
+- council_reference: 6216/2018/MAMC/A
+  address: 191 Whitwood Road, NEW CHUM QLD 4303
+  description: Minor Change - Material Change of Use - Special Industry (Chemical
+    Manufacturing) and Environmentally Relevant Activity (ERA) 7 - Chemical Manufacturing
+  info_url: https://epathway.ipswich.qld.gov.au/ePathway/Production//Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-03-01'
+- council_reference: 6536/2018/MAPDA/C
+  address: 238 Monterea Road, RIPLEY QLD 4306
+  description: "Amendment Application - \nReconfiguring a Lot - Four (4) Lots into
+    Three hundred and Twenty One (321) Lots with a Plan of Development (POD), Two
+    (2) Balance Lots, plus Park, Drainage Reserves and new Roads"
+  info_url: https://epathway.ipswich.qld.gov.au/ePathway/Production//Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-02-23'
+- council_reference: 6536/2018/PDAEXT/D
+  address: 238 Monterea Road, RIPLEY QLD 4306
+  description: "Extension Application - \nReconfiguring a Lot - Four (4) Lots into
+    Three hundred and Twenty One (321) Lots with a Plan of Development (POD), Two
+    (2) Balance Lots, plus Park, Drainage Reserves and new Roads"
+  info_url: https://epathway.ipswich.qld.gov.au/ePathway/Production//Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-02-24'
+- council_reference: 7357/2015/MAEXT/A
+  address: 10 Brisbane Road, REDBANK QLD 4301
+  description: Extension to Currency Period Application - One (1) lot into Three (3)
+    lots
+  info_url: https://epathway.ipswich.qld.gov.au/ePathway/Production//Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-02-26'
+- council_reference: 7564/2007/MAMC/C
+  address: 7001 Karrabin Rosewood Road, ROSEWOOD QLD 4340
+  description: |-
+    Minor Change - RAL- Two (2) Lot into 268 Lots
+    MCU- Single Residential Dwellings on allotments affected by a Development Constraint Overlay (Proposed Lots 290-299)
+  info_url: https://epathway.ipswich.qld.gov.au/ePathway/Production//Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-03-05'
+- council_reference: 7787/2008/MAEXT/A
+  address: 7001 Grampian Drive, DEEBING HEIGHTS QLD 4306
+  description: "Extension Application - \nRAL - One (1) lot into 137 lots (including
+    six (6) multi res lots and one (1) shopping centre), new roads, linear open space
+    and drainage reserve\nMCU - Preliminary Approval to Override the Planning Scheme"
+  info_url: https://epathway.ipswich.qld.gov.au/ePathway/Production//Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-03-10'
+- council_reference: 8658/2017/MAPDA/C
+  address: 107-137 Abrahams Road, SOUTH RIPLEY QLD 4306
+  description: Amendment Application - Reconfiguring a lot (Including Plan of Development)
+    for 272 residential allotments, 1 balance allotment, drainage and road over multiple
+    stages.
+  info_url: https://epathway.ipswich.qld.gov.au/ePathway/Production//Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-03-03'
+- council_reference: 8736/2017/MAPDA/C
+  address: 7001 Trigona Drive, RIPLEY QLD 4306
+  description: Amendment Application - Reconfiguring a Lot - 1 Lot into 273 Lots including
+    271 Residential Lots, with Plan of Development, 1 Child Care Centre Lot, 1 Balance
+    Lot plus Parks and new Roads
+  info_url: https://epathway.ipswich.qld.gov.au/ePathway/Production//Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-02-26'
+- council_reference: 9028/2018/MAMC/A
+  address: 201 Brisbane Road, BOOVAL QLD 4304
+  description: "Minor Change Application - \nMaterial Change of Use - Business Use
+    (Professional Office and Medical Centre)"
+  info_url: https://epathway.ipswich.qld.gov.au/ePathway/Production//Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-02-25'

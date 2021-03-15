@@ -81,6 +81,11 @@ module EpathwayScraper
       state: "NSW",
       list: :all_this_year
     },
+    ipswich: {
+      url: "https://epathway.ipswich.qld.gov.au/ePathway/Production/",
+      state: "QLD",
+      list: :last_30_days
+    },
     kingston: {
       url: "https://online.kingston.vic.gov.au/ePathway/Production",
       state: "VIC",

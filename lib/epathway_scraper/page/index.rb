@@ -61,11 +61,13 @@ module EpathwayScraper
         when "type", "application type", "type of application"
           :type
         when "current decision", "decision (check status)", "decision (if decided)",
-             "decision"
+             "decision", "decisions"
           :decision
         # TODO: Year of what exactly?
         when "year"
           :year
+        when "responsible officer"
+          :responsible_officer
         else
           raise "Unexpected key: #{key.downcase} with value: #{value}"
         end

@@ -147,7 +147,7 @@ module EpathwayScraper
       list: :all_this_year
     },
     parramatta: {
-      url: "https://onlineservices.parracity.nsw.gov.au/ePathway/Prod",
+      url: "https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod",
       state: "NSW",
       list: :last_30_days
     },

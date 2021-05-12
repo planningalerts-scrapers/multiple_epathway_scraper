@@ -69,13 +69,6 @@ module EpathwayScraper
       # https://www.ssllabs.com/ssltest/analyze.html?d=eservices.greatershepparton.com.au&latest
       disable_ssl_certificate_check: true
     },
-    greatlakes: {
-      url: "https://services.greatlakes.nsw.gov.au/ePathway/Production",
-      state: "NSW",
-      list: :all,
-      max_pages: 10,
-      disable_ssl_certificate_check: true
-    },
     inverell: {
       url: "http://203.49.140.77/ePathway/Production",
       state: "NSW",

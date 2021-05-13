@@ -3,21 +3,10 @@
 module EpathwayScraper
   # The settings to scrape each different authority
   AUTHORITIES = {
-    adelaide: {
-      url: "https://epathway.adelaidecitycouncil.com/epathway/ePathwayProd",
-      state: "SA",
-      list: :all_this_year
-    },
     ballarat: {
       url: "https://eservices.ballarat.vic.gov.au/ePathway/Production",
       state: "VIC",
       list: :advertising
-    },
-    barossa: {
-      url: "https://epayments.barossa.sa.gov.au/ePathway/Production",
-      state: "SA",
-      list: :last_30_days,
-      force_detail: true
     },
     bendigo: {
       url: "https://epathway.bendigo.vic.gov.au/ePathway/Production",
@@ -134,11 +123,6 @@ module EpathwayScraper
       state: "VIC",
       list: :advertising
     },
-    onkaparinga: {
-      url: "http://pathway.onkaparinga.sa.gov.au/ePathway/Production",
-      state: "SA",
-      list: :all_this_year
-    },
     parramatta: {
       url: "https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod",
       state: "NSW",
@@ -154,11 +138,6 @@ module EpathwayScraper
       state: "QLD",
       list: :last_30_days
     },
-    salisbury: {
-      url: "https://eservices.salisbury.sa.gov.au/ePathway/Production",
-      state: "SA",
-      list: :last_30_days
-    },
     south_gippsland: {
       url: "https://eservices.southgippsland.vic.gov.au/ePathway/ePathProd",
       state: "VIC",
@@ -168,19 +147,6 @@ module EpathwayScraper
       url: "https://epathway.thehills.nsw.gov.au/ePathway/Production",
       state: "NSW",
       list: :last_30_days
-    },
-    unley: {
-      url: "https://online.unley.sa.gov.au/ePathway/Production",
-      state: "SA",
-      list: :last_30_days
-    },
-    west_torrens: {
-      url: "https://epathway.wtcc.sa.gov.au/ePathway/Production",
-      state: "SA",
-      list: :last_30_days,
-      # Has an incomplete SSL chain: See
-      # https://www.ssllabs.com/ssltest/analyze.html?d=epathway.wtcc.sa.gov.au
-      disable_ssl_certificate_check: true
     },
     whitehorse: {
       url: "https://eservices.whitehorse.vic.gov.au/ePathway/Production",

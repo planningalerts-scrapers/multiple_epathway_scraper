@@ -123,7 +123,8 @@ module EpathwayScraper
     nillumbik: {
       url: "https://epathway.nillumbik.vic.gov.au/ePathway/Production",
       state: "VIC",
-      list: :advertising
+      list: :advertising,
+      australian_proxy: true
     },
     parramatta: {
       url: "https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod",

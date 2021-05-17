@@ -49,6 +49,7 @@ module EpathwayScraper
         "application enquiry - planning",
         # Planning Permit Applications
         "planning permit application search",
+        "planning permit register",
         # Town Planning
         "town planning public register",
         # This one is ridiculous

@@ -15,10 +15,18 @@ module EpathwayScraper
   # list: one of :all, :advertising, :last_30_days, :all_this_year
   # state: NSW, VIC or NT, etc...
   def self.scrape(url:, list:, state:, max_pages: nil, force_detail: false,
-                  disable_ssl_certificate_check: false)
+                  disable_ssl_certificate_check: false,
+                  australian_proxy: false)
     base_url = url + "/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP"
     agent = Mechanize.new
     agent.verify_mode = OpenSSL::SSL::VERIFY_NONE if disable_ssl_certificate_check
+
+    if australian_proxy
+      # On morph.io set the environment variable MORPH_AUSTRALIAN_PROXY to
+      # http://morph:password@au.proxy.oaf.org.au:8888 replacing password with
+      # the real password.
+      agent.agent.set_proxy(ENV["MORPH_AUSTRALIAN_PROXY"])
+    end
 
     # Navigate to the correct list
     page = agent.get(base_url)

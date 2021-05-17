@@ -27,7 +27,9 @@ module EpathwayScraper
     east_gippsland: {
       url: "https://epathway.egipps.vic.gov.au/ePathway/Production",
       state: "VIC",
-      list: :last_30_days
+      list: :last_30_days,
+      # Looks like it's blocking requests from outside Australia
+      australian_proxy: true
     },
     frankston: {
       url: "https://epathway.frankston.vic.gov.au/ePathway/Production",

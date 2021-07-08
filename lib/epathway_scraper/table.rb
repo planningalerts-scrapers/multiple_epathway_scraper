@@ -11,7 +11,7 @@ module EpathwayScraper
         url = tr.at("a")["href"] if tr.at("a")
         r = {}
         content.each_with_index do |value, index|
-          r[headings[index]] = value.strip
+          r[headings[index].strip] = value.strip
         end
         { content: r, url: url }
       end

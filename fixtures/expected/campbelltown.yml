@@ -760,10 +760,8 @@
   date_received: '2018-05-21'
 - council_reference: 1626/2019/DA-RS
   address: 15 Nepean Towers Avenue, GLEN ALPINE NSW 2560
-  description: 'Construction of three x attached dwellings and subdivision into three
+  description: Construction of three x attached dwellings and subdivision into three
     Torrens title allotments
-
-'
   info_url: https://ebiz.campbelltown.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-05-16'
@@ -1151,7 +1149,7 @@
   date_received: '2019-01-22'
 - council_reference: 21/1982/DA-S/A
   address: Pt Lot 2 Clydesdale Drive, BLAIRMOUNT NSW 2559
-  description: |
+  description: |-
     Modification of an existing development consent for Subdivision into 75 residential lots, 1 public reserve lot, 1
     drainage lot, 1 medimum density lot & 5 residue lots
   info_url: https://ebiz.campbelltown.nsw.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP

@@ -339,7 +339,7 @@
   description: "SLO9 - \tProposed building works located within 4m of an Existing
     Significant Tree to be Retained and;\n\nGRZ - \tConstruct an out-building on a
     lot where the gross floor area of the out-building exceeds 10 square metres and
-    the maximum building height is more than 3 metres above ground level.\n"
+    the maximum building height is more than 3 metres above ground level."
   info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-06-28'
@@ -446,7 +446,7 @@
     3 trees at our property: \n5 Canora St, Blackburn South. As well as (in the near
     future) erecting a front metal property fence.\n\nThe trees in question (as indicated
     as Tree 2, Tree 9 & Tree 15 on the Arborist report) will be replaced with two
-    indigenous Narrow-leaved Peppermint on property.\n"
+    indigenous Narrow-leaved Peppermint on property."
   info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-07-03'
@@ -861,9 +861,7 @@
   date_received: '2019-07-19'
 - council_reference: WH/9999/41
   address: 14 Nara Road, MITCHAM VIC 3132
-  description: 'change 3 windows in powder room, living and rumpus
-
-'
+  description: change 3 windows in powder room, living and rumpus
   info_url: https://eservices.whitehorse.vic.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2019-07-15'
